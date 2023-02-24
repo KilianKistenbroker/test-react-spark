@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-back-end_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_back_end_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="spark-back-end" />
+    </root>
+  </artifact>
+</component>
